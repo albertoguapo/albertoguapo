@@ -28,6 +28,6 @@ I’m always up for new projects and discussions! If you’re interested in data
 
 * LinkedIn
 * Twitter
-* 
+  
 Thanks for stopping by! Let’s turn data into something amazing together!
 
